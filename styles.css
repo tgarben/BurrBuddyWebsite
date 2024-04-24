@@ -1,0 +1,151 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	/* font: inherit; */
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+html{
+    background-color: #202e32;
+}
+
+footer {
+    background-color: #dfdcb9;
+    padding: 25px;
+    text-align: center;
+}
+
+#navLogo{
+    width: 24px;
+}
+
+body{
+    width: 1280px;
+    margin: 0 auto;
+    background-color: #586c5c;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.col {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+nav{
+    cursor: pointer;
+}
+
+#flavorNotes{
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    background-color: lightgray;
+    width: 75%;
+    bottom: 25px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#toastImg{
+    width: 20px;
+}
+
+#descriptionTag{
+    font-size: 15px;
+}
+
+#profileImg{
+    border-radius: 50%;
+    width: 100px;
+}
+
+.error{
+    font-size: 1em;
+    display: block;
+  }
+  
+.errorInput{
+border: 1px solid var(--orange);
+}
+
+.hidden{
+    display: none;
+}
+
+.message{
+display: none;
+color: var(--orange);
+font-size: 1.2em;
+margin: 0.25em 0;
+font-weight: bold;
+}
+
+
+/* JQUERY CAROUSEL
+
+.carousel-container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.carousel {
+    display: flex;
+    transition: transform 0.3s ease;
+}
+
+.carousel-slide {
+    flex: 0 0 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+} */

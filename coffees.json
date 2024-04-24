@@ -1,0 +1,153 @@
+{
+    "coffees": [
+        {
+            "name": "Dutch Boy Blend",
+            "roaster": "Bird Dog Beans",
+            "image": "img/birddog/bird1",
+            "description": "This is our signature, medium roast, consisting of Central American and African coffee beans. This coffee has notes including vanilla, chocolate, and almond. We believe it makes the perfect cup of drip, pour over and espresso coffees. Pair it with cream or drink it black, we are more than confident you will enjoy every ounce.",
+            "flavorNotes": "Vanilla | Chocolate | Almond",
+            "price": {
+                "1lb": "$16.00",
+                "5lb": "$75.00"
+            },
+            "purchaseLink": "https://www.birddogcoffeebeans.com/product/dutch-boy-blend/1?cs=true&cst=custom",
+            "id": 1
+        },
+        {
+            "name": "Single Origin Brazil",
+            "roaster": "Bird Dog Beans",
+            "image": "img/birddog/bird2",
+            "description": "This single origin coffee, sourced from Brazil, has a medium body, mild acidity, and tasting notes of green apple and chocolate.",
+            "flavorNotes": "Green Apple | Chocolate",
+            "price": {
+                "1lb": "$16.00",
+                "5lb": "$75.00"
+            },
+            "purchaseLink": "https://www.birddogcoffeebeans.com/product/single-origin-brazil/5?cp=true&sa=true&sbp=false&q=false",
+            "id": 2
+        },
+        {
+            "name": "Single Origin Organic Papua New Guinea",
+            "roaster": "Bird Dog Beans",
+            "image": "img/birddog/bird3",
+            "description": "This organic, single origin coffee, has a medium body and medium acidity. Tasting notes include dark chocolate, dried cherry and blueberry.",
+            "flavorNotes": "Dark Chocolate | Dried Cherry | Blueberry",
+            "price": {
+                "1lb": "$16.00",
+                "5lb": "$75.00"
+            },
+            "purchaseLink": "https://www.birddogcoffeebeans.com/product/single-origin-organic-papua-new-guinea/6?si=true",
+            "id": 3
+        },
+        {
+            "name": "Single Origin Costa Rica Honey Process",
+            "roaster": "Bird Dog Beans",
+            "image": "img/birddog/bird4",
+            "description": "This Costa Rican single origin has a medium body, a bright acidity, and tasting notes of Honey, Almond, and Bourbon.",
+            "flavorNotes": "Honey | Almond | Bourbon",
+            "price": {
+                "1lb": "$16.00",
+                "5lb": "$75.00"
+            },
+            "purchaseLink": "https://www.birddogcoffeebeans.com/product/single-origin-costa-rica-honey-process/7?si=true",
+            "id": 4
+        },
+        {
+            "name": "Dutch Boy Dark",
+            "roaster": "Bird Dog Beans",
+            "image": "img/birddog/bird5",
+            "description": "Our Signature Dutch Boy Blend roasted to a darker profile for a stronger, heavier taste.",
+            "flavorNotes": "Vanilla | Chocolate | Almond",
+            "price": {
+                "1lb": "$16.00",
+                "5lb": "$75.00"
+            },
+            "purchaseLink": "https://www.birddogcoffeebeans.com/product/dutch-boy-dark/8?cs=true&cst=custom",
+            "id": 5
+        },
+        {
+            "name": "Dutch Boy Blonde",
+            "roaster": "Bird Dog Beans",
+            "image": "img/birddog/bird6",
+            "description": "Our signature blend of Central American and African coffees, but roasted to a lighter profile creating a bright and lighter flavor.",
+            "flavorNotes": "Vanilla | Chocolate | Almond",
+            "price": {
+                "1lb": "$16.00",
+                "5lb": "$75.00"
+            },
+            "purchaseLink": "https://www.birddogcoffeebeans.com/product/dutch-boy-blonde/9?si=true",
+            "id": 6
+        },
+        {
+            "name": "Single Origin Ethiopia Sidamo",
+            "roaster": "Bird Dog Beans",
+            "image": "img/birddog/bird7",
+            "description": "This bold single origin, sourced from Ethiopia, grows in the region of Sidamo and includes tasting notes of Cane sugar and Plum.",
+            "flavorNotes": "Cane Sugar | Plum",
+            "price": {
+                "1lb": "$16.00",
+                "5lb": "$75.00"
+            },
+            "purchaseLink": "https://www.birddogcoffeebeans.com/product/single-origin-ethiopia-sidamo/10?cp=true&sa=true&sbp=false&q=false",
+            "id": 7
+        },
+        {
+            "name": "Single Origin Nicaragua - Farm Direct - Honey Process",
+            "roaster": "Bird Dog Beans",
+            "image": "img/birddog/bird8",
+            "description": "Tasting notes of blueberry, pomegranate, and citrus. This is a shop favorite, we love it paired with chocolate croissant or a bagel with cream cheese. The quality and freshness of this coffee is unmatched!",
+            "flavorNotes": "Blueberry | Pomegranate | Citrus",
+            "price": {
+                "1lb": "$16.00",
+                "5lb": "$75.00"
+            },
+            "purchaseLink": "https://www.birddogcoffeebeans.com/product/single-origin-nicaragua-farm-direct-honey-process/11?cp=true&sa=true&sbp=false&q=false",
+            "id": 8
+        },
+        {
+            "name": "Single Origin Guatemala Huehuetenango SHB",
+            "roaster": "Bird Dog Beans",
+            "image": "img/birddog/bird9",
+            "description": "This mild and smooth single origin, sourced from Guatemala, grows in the region of Huehuetenango and includes tasting notes of granny smith apples, raspberries, and cane sugar.",
+            "flavorNotes": "Granny Smith Apple | Raspberries | Cane Sugar",
+            "price": {
+                "1lb": "$16.00",
+                "5lb": "$75.00"
+            },
+            "purchaseLink": "https://www.birddogcoffeebeans.com/product/single-origin-guatemala-huehuetenango-shb/12?cp=true&sa=true&sbp=false&q=false",
+            "id": 9
+        },
+        {
+            "name": "Organic Colombia - Excelsio",
+            "roaster": "Bird Dog Beans",
+            "image": "img/birddog/bird10",
+            "description": "This Organic Columbian coffee is from the Antioquia region of Columbia. Antioquia is in the Northwest portion of the country, lying mostly within the Andes mountains and reaching toward the Caribbean Sea. The excelsio grade of coffee is a smaller than an average bean but full of flavor and fantastic quality.",
+            "flavorNotes": "Navel Orange | Red Grapes | Milk Chocolate | Caramel",
+            "price": {
+                "1lb": "$16.00",
+                "5lb": "$75.00"
+            },
+            "purchaseLink": "https://www.birddogcoffeebeans.com/product/organic-colombia-excelsio/19?cp=true&sa=true&sbp=false&q=false",
+            "id": 10
+        },
+        {
+            "name": "Tanzania - Mbeya Region - Natural Process",
+            "roaster": "Bird Dog Beans",
+            "image": "img/birddog/bird11",
+            "description": "Indulge in the rich and flavorful taste of our Tanzania Mbeya Region Natural Process coffee beans. Carefully sourced from the lush Mbeya region, these beans undergo a unique natural process that brings out their distinctive flavors. With every sip, you'll experience notes of fruity sweetness and a smooth, velvety finish. Elevate your coffee experience and savor the essence of Mbeya with our exceptional Tanzania Mbeya Region Natural Process coffee beans. We roast these beans to a light-medium profile that highlights the natural Strawberry and Citrus flavors.",
+            "flavorNotes": "Strawberry | Citrus",
+            "price": {
+                "1lb": "$16.00",
+                "5lb": "$75.00"
+            },
+            "purchaseLink": "https://www.birddogcoffeebeans.com/product/tanzania-mbeya-region-natural-process/20?cp=true&sa=true&sbp=false&q=false",
+            "id": 11
+        }
+    ],
+    "info": {
+        "seed": "d838f7b63c49b3aa",
+        "results": 11,
+        "page": 1,
+        "version": "1.0"
+    }
+}
