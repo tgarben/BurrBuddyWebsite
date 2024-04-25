@@ -106,46 +106,6 @@ nav{
     width: 100px;
 }
 
-.error{
-    font-size: 1em;
-    display: block;
-  }
-  
-.errorInput{
-border: 1px solid var(--orange);
-}
-
 .hidden{
     display: none;
 }
-
-.message{
-display: none;
-color: var(--orange);
-font-size: 1.2em;
-margin: 0.25em 0;
-font-weight: bold;
-}
-
-
-/* JQUERY CAROUSEL
-
-.carousel-container {
-    width: 80%;
-    margin: 0 auto;
-    overflow: hidden;
-}
-
-.carousel {
-    display: flex;
-    transition: transform 0.3s ease;
-}
-
-.carousel-slide {
-    flex: 0 0 100%;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-} */

@@ -20,8 +20,8 @@ function getCoffees(data){
     cardDiv.innerHTML = cardOutput;
 
     $('#myModal').on('show.bs.modal', function(event) {
-        var button = $(event.relatedTarget); // Button that triggered the modal
-        var input = button.data('request'); // Extract info from data-* attributes
+        var button = $(event.relatedTarget);
+        var input = button.data('request');
         let modalOutput = "";
 
         modalOutput = `
@@ -34,7 +34,6 @@ function getCoffees(data){
                 </a>
         `;
 
-        // Update the modal's content with the extracted data
         var modal = $(this);
         modal.find('.modal-title').text(data.coffees[input].name);
         modal.find('.modal-image').html(`<img src="${data.coffees[input].image}.png" class="card-img-top" alt="Image of Coffee "><p id="flavorNotes" class="mw-90 h-auto p-2">${data.coffees[input].flavorNotes}</p>`);
